@@ -1,0 +1,2099 @@
+{
+  "size": [
+    10,
+    10
+  ],
+  "snakes": [
+    {
+      "body": [
+        [
+          2,
+          5
+        ],
+        [
+          2,
+          5
+        ],
+        [
+          2,
+          5
+        ],
+        [
+          2,
+          5
+        ],
+        [
+          2,
+          5
+        ],
+        [
+          2,
+          5
+        ]
+      ]
+    },
+    {
+      "body": [
+        [
+          8,
+          5
+        ],
+        [
+          8,
+          5
+        ],
+        [
+          8,
+          5
+        ],
+        [
+          8,
+          5
+        ],
+        [
+          8,
+          5
+        ],
+        [
+          8,
+          5
+        ]
+      ]
+    },
+    {
+      "body": [
+        [
+          5,
+          2
+        ],
+        [
+          5,
+          2
+        ],
+        [
+          5,
+          2
+        ],
+        [
+          5,
+          2
+        ],
+        [
+          5,
+          2
+        ],
+        [
+          5,
+          2
+        ]
+      ]
+    },
+    {
+      "body": [
+        [
+          5,
+          8
+        ],
+        [
+          5,
+          8
+        ],
+        [
+          5,
+          8
+        ],
+        [
+          5,
+          8
+        ],
+        [
+          5,
+          8
+        ],
+        [
+          5,
+          8
+        ]
+      ]
+    }
+  ],
+  "bad_apple_every_ticks": 5,
+  "star_every_ticks": 40,
+  "sword_every_ticks": 10,
+  "instructions": [
+    {
+      "OrientSnake": [
+        "mvm",
+        "EAST"
+      ]
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "EAST"
+      ]
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "EAST"
+      ]
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "EAST"
+      ]
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "EAST"
+      ]
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "EAST"
+      ]
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "EAST"
+      ]
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "EAST"
+      ]
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "EAST"
+      ]
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "EAST"
+      ]
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "EAST"
+      ]
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "EAST"
+      ]
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "EAST"
+      ]
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "EAST"
+      ]
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "EAST"
+      ]
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "EAST"
+      ]
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "EAST"
+      ]
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "EAST"
+      ]
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "EAST"
+      ]
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "EAST"
+      ]
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "EAST"
+      ]
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "EAST"
+      ]
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "EAST"
+      ]
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "EAST"
+      ]
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "EAST"
+      ]
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "EAST"
+      ]
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "EAST"
+      ]
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "EAST"
+      ]
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "EAST"
+      ]
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "EAST"
+      ]
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "EAST"
+      ]
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "EAST"
+      ]
+    },
+    {
+      "AddBot": "Bot-1"
+    },
+    {
+      "AddBot": "Bot-2"
+    },
+    {
+      "AddBot": "Bot-3"
+    },
+    {
+      "AddBot": "Bot-4"
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "EAST"
+      ]
+    },
+    {
+      "AddBot": "Bot-4"
+    },
+    {
+      "PowerupTick": []
+    },
+    {
+      "MovementTick": []
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "NORTH"
+      ]
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "NORTH"
+      ]
+    },
+    {
+      "PowerupTick": []
+    },
+    {
+      "MovementTick": []
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "NORTH"
+      ]
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "NORTH"
+      ]
+    },
+    {
+      "PowerupTick": []
+    },
+    {
+      "MovementTick": []
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "NORTH"
+      ]
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "NORTH"
+      ]
+    },
+    {
+      "PowerupTick": []
+    },
+    {
+      "MovementTick": []
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "WEST"
+      ]
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "WEST"
+      ]
+    },
+    {
+      "PowerupTick": []
+    },
+    {
+      "MovementTick": []
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "WEST"
+      ]
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "WEST"
+      ]
+    },
+    {
+      "PowerupTick": []
+    },
+    {
+      "MovementTick": []
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "WEST"
+      ]
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "WEST"
+      ]
+    },
+    {
+      "PowerupTick": []
+    },
+    {
+      "MovementTick": []
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "WEST"
+      ]
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "WEST"
+      ]
+    },
+    {
+      "PowerupTick": []
+    },
+    {
+      "MovementTick": []
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "NORTH"
+      ]
+    },
+    {
+      "PowerupTick": []
+    },
+    {
+      "MovementTick": []
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "EAST"
+      ]
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "EAST"
+      ]
+    },
+    {
+      "PowerupTick": []
+    },
+    {
+      "MovementTick": []
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "EAST"
+      ]
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "EAST"
+      ]
+    },
+    {
+      "PowerupTick": []
+    },
+    {
+      "MovementTick": []
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "EAST"
+      ]
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "EAST"
+      ]
+    },
+    {
+      "PowerupTick": []
+    },
+    {
+      "MovementTick": []
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "EAST"
+      ]
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "EAST"
+      ]
+    },
+    {
+      "PowerupTick": []
+    },
+    {
+      "MovementTick": []
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "EAST"
+      ]
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "EAST"
+      ]
+    },
+    {
+      "PowerupTick": []
+    },
+    {
+      "MovementTick": []
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "SOUTH"
+      ]
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "SOUTH"
+      ]
+    },
+    {
+      "PowerupTick": []
+    },
+    {
+      "MovementTick": []
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "SOUTH"
+      ]
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "SOUTH"
+      ]
+    },
+    {
+      "PowerupTick": []
+    },
+    {
+      "MovementTick": []
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "SOUTH"
+      ]
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "SOUTH"
+      ]
+    },
+    {
+      "PowerupTick": []
+    },
+    {
+      "MovementTick": []
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "SOUTH"
+      ]
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "SOUTH"
+      ]
+    },
+    {
+      "PowerupTick": []
+    },
+    {
+      "MovementTick": []
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "SOUTH"
+      ]
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "SOUTH"
+      ]
+    },
+    {
+      "PowerupTick": []
+    },
+    {
+      "MovementTick": []
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "WEST"
+      ]
+    },
+    {
+      "PowerupTick": []
+    },
+    {
+      "MovementTick": []
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "SOUTH"
+      ]
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "SOUTH"
+      ]
+    },
+    {
+      "PowerupTick": []
+    },
+    {
+      "MovementTick": []
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "SOUTH"
+      ]
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "SOUTH"
+      ]
+    },
+    {
+      "PowerupTick": []
+    },
+    {
+      "MovementTick": []
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "SOUTH"
+      ]
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "SOUTH"
+      ]
+    },
+    {
+      "PowerupTick": []
+    },
+    {
+      "MovementTick": []
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "SOUTH"
+      ]
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "SOUTH"
+      ]
+    },
+    {
+      "PowerupTick": []
+    },
+    {
+      "MovementTick": []
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "WEST"
+      ]
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "WEST"
+      ]
+    },
+    {
+      "PowerupTick": []
+    },
+    {
+      "MovementTick": []
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "WEST"
+      ]
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "WEST"
+      ]
+    },
+    {
+      "PowerupTick": []
+    },
+    {
+      "MovementTick": []
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "WEST"
+      ]
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "WEST"
+      ]
+    },
+    {
+      "PowerupTick": []
+    },
+    {
+      "MovementTick": []
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "SOUTH"
+      ]
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "SOUTH"
+      ]
+    },
+    {
+      "PowerupTick": []
+    },
+    {
+      "MovementTick": []
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "SOUTH"
+      ]
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "SOUTH"
+      ]
+    },
+    {
+      "PowerupTick": []
+    },
+    {
+      "MovementTick": []
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "SOUTH"
+      ]
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "SOUTH"
+      ]
+    },
+    {
+      "PowerupTick": []
+    },
+    {
+      "MovementTick": []
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "SOUTH"
+      ]
+    },
+    {
+      "PowerupTick": []
+    },
+    {
+      "MovementTick": []
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "EAST"
+      ]
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "EAST"
+      ]
+    },
+    {
+      "PowerupTick": []
+    },
+    {
+      "MovementTick": []
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "EAST"
+      ]
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "EAST"
+      ]
+    },
+    {
+      "PowerupTick": []
+    },
+    {
+      "MovementTick": []
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "SOUTH"
+      ]
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "SOUTH"
+      ]
+    },
+    {
+      "PowerupTick": []
+    },
+    {
+      "MovementTick": []
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "EAST"
+      ]
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "EAST"
+      ]
+    },
+    {
+      "PowerupTick": []
+    },
+    {
+      "MovementTick": []
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "SOUTH"
+      ]
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "SOUTH"
+      ]
+    },
+    {
+      "PowerupTick": []
+    },
+    {
+      "MovementTick": []
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "SOUTH"
+      ]
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "SOUTH"
+      ]
+    },
+    {
+      "PowerupTick": []
+    },
+    {
+      "MovementTick": []
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "SOUTH"
+      ]
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "SOUTH"
+      ]
+    },
+    {
+      "PowerupTick": []
+    },
+    {
+      "MovementTick": []
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "WEST"
+      ]
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "WEST"
+      ]
+    },
+    {
+      "PowerupTick": []
+    },
+    {
+      "MovementTick": []
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "WEST"
+      ]
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "WEST"
+      ]
+    },
+    {
+      "PowerupTick": []
+    },
+    {
+      "MovementTick": []
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "NORTH"
+      ]
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "NORTH"
+      ]
+    },
+    {
+      "PowerupTick": []
+    },
+    {
+      "MovementTick": []
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "NORTH"
+      ]
+    },
+    {
+      "PowerupTick": []
+    },
+    {
+      "MovementTick": []
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "WEST"
+      ]
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "WEST"
+      ]
+    },
+    {
+      "PowerupTick": []
+    },
+    {
+      "MovementTick": []
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "WEST"
+      ]
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "WEST"
+      ]
+    },
+    {
+      "PowerupTick": []
+    },
+    {
+      "MovementTick": []
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "NORTH"
+      ]
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "NORTH"
+      ]
+    },
+    {
+      "PowerupTick": []
+    },
+    {
+      "MovementTick": []
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "NORTH"
+      ]
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "NORTH"
+      ]
+    },
+    {
+      "PowerupTick": []
+    },
+    {
+      "MovementTick": []
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "NORTH"
+      ]
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "NORTH"
+      ]
+    },
+    {
+      "PowerupTick": []
+    },
+    {
+      "MovementTick": []
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "WEST"
+      ]
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "WEST"
+      ]
+    },
+    {
+      "PowerupTick": []
+    },
+    {
+      "MovementTick": []
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "WEST"
+      ]
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "WEST"
+      ]
+    },
+    {
+      "PowerupTick": []
+    },
+    {
+      "MovementTick": []
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "WEST"
+      ]
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "WEST"
+      ]
+    },
+    {
+      "PowerupTick": []
+    },
+    {
+      "MovementTick": []
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "WEST"
+      ]
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "WEST"
+      ]
+    },
+    {
+      "PowerupTick": []
+    },
+    {
+      "MovementTick": []
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "SOUTH"
+      ]
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "SOUTH"
+      ]
+    },
+    {
+      "PowerupTick": []
+    },
+    {
+      "MovementTick": []
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "EAST"
+      ]
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "EAST"
+      ]
+    },
+    {
+      "PowerupTick": []
+    },
+    {
+      "MovementTick": []
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "EAST"
+      ]
+    },
+    {
+      "PowerupTick": []
+    },
+    {
+      "MovementTick": []
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "SOUTH"
+      ]
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "SOUTH"
+      ]
+    },
+    {
+      "PowerupTick": []
+    },
+    {
+      "MovementTick": []
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "SOUTH"
+      ]
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "SOUTH"
+      ]
+    },
+    {
+      "PowerupTick": []
+    },
+    {
+      "MovementTick": []
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "SOUTH"
+      ]
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "SOUTH"
+      ]
+    },
+    {
+      "PowerupTick": []
+    },
+    {
+      "MovementTick": []
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "SOUTH"
+      ]
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "SOUTH"
+      ]
+    },
+    {
+      "PowerupTick": []
+    },
+    {
+      "MovementTick": []
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "SOUTH"
+      ]
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "SOUTH"
+      ]
+    },
+    {
+      "PowerupTick": []
+    },
+    {
+      "MovementTick": []
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "EAST"
+      ]
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "EAST"
+      ]
+    },
+    {
+      "PowerupTick": []
+    },
+    {
+      "MovementTick": []
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "EAST"
+      ]
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "EAST"
+      ]
+    },
+    {
+      "PowerupTick": []
+    },
+    {
+      "MovementTick": []
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "NORTH"
+      ]
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "NORTH"
+      ]
+    },
+    {
+      "PowerupTick": []
+    },
+    {
+      "MovementTick": []
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "NORTH"
+      ]
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "NORTH"
+      ]
+    },
+    {
+      "PowerupTick": []
+    },
+    {
+      "MovementTick": []
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "WEST"
+      ]
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "WEST"
+      ]
+    },
+    {
+      "PowerupTick": []
+    },
+    {
+      "MovementTick": []
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "NORTH"
+      ]
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "NORTH"
+      ]
+    },
+    {
+      "PowerupTick": []
+    },
+    {
+      "MovementTick": []
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "NORTH"
+      ]
+    },
+    {
+      "PowerupTick": []
+    },
+    {
+      "MovementTick": []
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "NORTH"
+      ]
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "NORTH"
+      ]
+    },
+    {
+      "PowerupTick": []
+    },
+    {
+      "MovementTick": []
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "EAST"
+      ]
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "EAST"
+      ]
+    },
+    {
+      "PowerupTick": []
+    },
+    {
+      "MovementTick": []
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "NORTH"
+      ]
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "NORTH"
+      ]
+    },
+    {
+      "PowerupTick": []
+    },
+    {
+      "MovementTick": []
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "WEST"
+      ]
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "WEST"
+      ]
+    },
+    {
+      "PowerupTick": []
+    },
+    {
+      "MovementTick": []
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "WEST"
+      ]
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "WEST"
+      ]
+    },
+    {
+      "PowerupTick": []
+    },
+    {
+      "MovementTick": []
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "WEST"
+      ]
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "WEST"
+      ]
+    },
+    {
+      "PowerupTick": []
+    },
+    {
+      "MovementTick": []
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "WEST"
+      ]
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "WEST"
+      ]
+    },
+    {
+      "PowerupTick": []
+    },
+    {
+      "MovementTick": []
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "SOUTH"
+      ]
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "SOUTH"
+      ]
+    },
+    {
+      "PowerupTick": []
+    },
+    {
+      "MovementTick": []
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "SOUTH"
+      ]
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "SOUTH"
+      ]
+    },
+    {
+      "PowerupTick": []
+    },
+    {
+      "MovementTick": []
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "WEST"
+      ]
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "WEST"
+      ]
+    },
+    {
+      "PowerupTick": []
+    },
+    {
+      "MovementTick": []
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "WEST"
+      ]
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "WEST"
+      ]
+    },
+    {
+      "PowerupTick": []
+    },
+    {
+      "MovementTick": []
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "SOUTH"
+      ]
+    },
+    {
+      "PowerupTick": []
+    },
+    {
+      "MovementTick": []
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "WEST"
+      ]
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "WEST"
+      ]
+    },
+    {
+      "PowerupTick": []
+    },
+    {
+      "MovementTick": []
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "SOUTH"
+      ]
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "SOUTH"
+      ]
+    },
+    {
+      "PowerupTick": []
+    },
+    {
+      "MovementTick": []
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "SOUTH"
+      ]
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "SOUTH"
+      ]
+    },
+    {
+      "PowerupTick": []
+    },
+    {
+      "MovementTick": []
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "SOUTH"
+      ]
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "SOUTH"
+      ]
+    },
+    {
+      "PowerupTick": []
+    },
+    {
+      "MovementTick": []
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "SOUTH"
+      ]
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "SOUTH"
+      ]
+    },
+    {
+      "PowerupTick": []
+    },
+    {
+      "MovementTick": []
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "SOUTH"
+      ]
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "SOUTH"
+      ]
+    },
+    {
+      "PowerupTick": []
+    },
+    {
+      "MovementTick": []
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "EAST"
+      ]
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "EAST"
+      ]
+    },
+    {
+      "PowerupTick": []
+    },
+    {
+      "MovementTick": []
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "EAST"
+      ]
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "EAST"
+      ]
+    },
+    {
+      "PowerupTick": []
+    },
+    {
+      "MovementTick": []
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "EAST"
+      ]
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "EAST"
+      ]
+    },
+    {
+      "PowerupTick": []
+    },
+    {
+      "MovementTick": []
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "EAST"
+      ]
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "EAST"
+      ]
+    },
+    {
+      "PowerupTick": []
+    },
+    {
+      "MovementTick": []
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "SOUTH"
+      ]
+    },
+    {
+      "PowerupTick": []
+    },
+    {
+      "MovementTick": []
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "WEST"
+      ]
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "WEST"
+      ]
+    },
+    {
+      "PowerupTick": []
+    },
+    {
+      "MovementTick": []
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "WEST"
+      ]
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "WEST"
+      ]
+    },
+    {
+      "PowerupTick": []
+    },
+    {
+      "MovementTick": []
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "WEST"
+      ]
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "WEST"
+      ]
+    },
+    {
+      "PowerupTick": []
+    },
+    {
+      "MovementTick": []
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "WEST"
+      ]
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "WEST"
+      ]
+    },
+    {
+      "PowerupTick": []
+    },
+    {
+      "MovementTick": []
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "SOUTH"
+      ]
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "SOUTH"
+      ]
+    },
+    {
+      "PowerupTick": []
+    },
+    {
+      "MovementTick": []
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "EAST"
+      ]
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "EAST"
+      ]
+    },
+    {
+      "PowerupTick": []
+    },
+    {
+      "MovementTick": []
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "EAST"
+      ]
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "EAST"
+      ]
+    },
+    {
+      "PowerupTick": []
+    },
+    {
+      "MovementTick": []
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "SOUTH"
+      ]
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "SOUTH"
+      ]
+    },
+    {
+      "PowerupTick": []
+    },
+    {
+      "MovementTick": []
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "SOUTH"
+      ]
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "SOUTH"
+      ]
+    },
+    {
+      "PowerupTick": []
+    },
+    {
+      "MovementTick": []
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "SOUTH"
+      ]
+    },
+    {
+      "PowerupTick": []
+    },
+    {
+      "MovementTick": []
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "SOUTH"
+      ]
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "SOUTH"
+      ]
+    },
+    {
+      "PowerupTick": []
+    },
+    {
+      "MovementTick": []
+    },
+    {
+      "StopGame": []
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "SOUTH"
+      ]
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "SOUTH"
+      ]
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "SOUTH"
+      ]
+    },
+    {
+      "OrientSnake": [
+        "mvm",
+        "SOUTH"
+      ]
+    }
+  ]
+}
