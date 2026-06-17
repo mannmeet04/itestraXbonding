@@ -18,7 +18,7 @@ Our core approach focused on aggressive growth and actively eliminating the comp
 * **Calculated Interception:** Utilizing pathfinding algorithms not just for navigation, but to calculate interception vectors to trap opponents and secure resources.
 
 ## Results
-* 🏆 **Top 5 Finish** in a highly competitive field of 11 teams.
+* 🏆 **Top 5 Finish** in a highly competitive field.
 * Built and deployed a robust autonomous system within exactly 24 hours.
 
 ## Team mvm
